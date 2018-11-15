@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/ShowToolTip/Default.aspx) (VB: [Default.aspx](./VB/ShowToolTip/Default.aspx))
+<!-- default file list end -->
 # How to show tooltips for a web chart control
 
 
